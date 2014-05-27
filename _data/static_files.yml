@@ -1,4 +1,19 @@
 ---
+- path: awkward/andy-samberg-awkward.gif
+  modified_time: 1401211314
+  extname: .gif
+- path: awkward/entourage-awkward.gif
+  modified_time: 1401211337
+  extname: .gif
+- path: awkward/kinnear-awkward.gif
+  modified_time: 1401211283
+  extname: .gif
+- path: awkward/parks-rec-awkward.gif
+  modified_time: 1401211299
+  extname: .gif
+- path: awkward/ronald-mcdonald-awkward.gif
+  modified_time: 1401211265
+  extname: .gif
 - path: boom/46-Ross-Boom.gif
   modified_time: 1400512588
   extname: .gif
@@ -512,6 +527,9 @@
 - path: knailed-it/split.gif
   modified_time: 1400512587
   extname: .gif
+- path: knailed-it/woody-toystory-boss.gif
+  modified_time: 1401199985
+  extname: .gif
 - path: life/fly-gif.gif
   modified_time: 1396980468
   extname: .gif
@@ -646,6 +664,12 @@
   extname: .gif
 - path: mondays/against-the-wind.gif
   modified_time: 1400512590
+  extname: .gif
+- path: mondays/arthur-sits-morning.gif
+  modified_time: 1401200122
+  extname: .gif
+- path: mondays/boo-monsters-tired.gif
+  modified_time: 1401200167
   extname: .gif
 - path: mondays/fu-computer.gif
   modified_time: 1400512588
@@ -1489,6 +1513,9 @@
   extname: .gif
 - path: will-ferrell/throne-of-lies.gif
   modified_time: 1400512590
+  extname: .gif
+- path: yay/aladdin-genie-applause.gif
+  modified_time: 1401199841
   extname: .gif
 - path: yay/anchorman-jump-in-air.gif
   modified_time: 1400512590
