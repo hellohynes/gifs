@@ -3,19 +3,29 @@
 @import url( "normalize.css" );
 
 body{
-  font-family: "Myriad Pro", "Lucida Grande", Arial, sans-serif;
-  font-size:16px;
-  line-height:1.5;
-  background-color: #f8f8f8;
+  font-family: "freight-sans-pro", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.428571429;
+  background-color: #F5F5F6;
+}
+
+.title-page {
+  margin: 0;
+  padding: 0;
+
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1;
 }
 
 .page-header {
-  width: 300px; height: 100%;
-  background-color: #15171b;
-  position: fixed;
-  left: 0; top: 0; bottom: 0;
-  color: white;
-  text-align: center; }
+  padding: 2em;
+  width: 100%;
+
+  background-color: #222;
+  color: #EEE;
+  text-align: center;
+}
 
 .page-header .img-preview {
   width: 100%;
@@ -23,6 +33,7 @@ body{
   position: relative;
   z-index: 1;
   overflow: hidden;
+  display: none;
 }
 
 .page-header .banner-img {
@@ -45,10 +56,9 @@ body{
 
 .page-header a {
   color: #bdf5da;
-  font-weight: bold; }
+}
 
 .gif-listing {
-  margin-left: 300px;
   padding: 20px;
   overflow: hidden; }
 
@@ -74,7 +84,8 @@ body{
   padding: 10px 20px;
   margin: 0 0 20px 0;
   text-transform: capitalize;
-  font-size: 24px;
+  font-size: 2em;
+  font-weight: 700;
   /* experimental column support */
   -moz-column-break-inside: avoid;
   -webkit-column-break-inside: avoid;
@@ -95,12 +106,13 @@ body{
   text-overflow: ellipsis;
   width: 100%;
   overflow: hidden;
-  font-size: 16px;
+  font-size: 1rem;
+  font-weight: 400;
   text-transform: none; }
 
 /*Style individual gif links*/
 .gif-listing > ul > li > ul > li a {
-  color: #5d9379;
+  color: #119e74;
   text-decoration: none; }
 
 .gif-listing > ul > li > ul > li a:hover {

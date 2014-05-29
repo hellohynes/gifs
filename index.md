@@ -2,10 +2,6 @@
 layout: home
 ---
 
-# Gifz
+<h1 class="title-page">#gifz</h1>
 
-The personal gif collection of Joshua Hynes, jump-started by the amazing [Joel Glovier.](https://github.com/jglovier/gifs)
-
-You can reach me on Twitter [@hellohynes](https://twitter.com/hellohynes).
-
-Fork me on GitHub at [hellohynes/gifs](https://github.com/hellohynes/gifs)
+The personal gif collection of [Joshua Hynes](https://twitter.com/hellohynes). This collection was initially forked from the amazing [Joel Glovier's collection.](https://github.com/jglovier/gifs) You can fork this repo on GitHub at [hellohynes/gifs](https://github.com/hellohynes/gifs)
